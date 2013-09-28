@@ -49,6 +49,7 @@ function HasBuffFrom(targetID, buffID, ownerID)
 			end
 		end
 	end
+	return false
 end
 
 function IsBehind(entity)
